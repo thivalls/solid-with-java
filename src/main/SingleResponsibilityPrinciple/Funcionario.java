@@ -1,4 +1,4 @@
-package main;
+package main.SingleResponsibilityPrinciple;
 
 import java.util.Calendar;
 

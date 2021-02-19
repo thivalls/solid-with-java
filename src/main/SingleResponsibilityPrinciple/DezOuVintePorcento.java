@@ -1,4 +1,4 @@
-package main;
+package main.SingleResponsibilityPrinciple;
 
 public class DezOuVintePorcento implements RegraDeCalculo{
 
