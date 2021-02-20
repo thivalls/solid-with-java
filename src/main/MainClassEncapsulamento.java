@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainClassEncapsulamento {
-    public static void main(String[] args) {
+/*    public static void main(String[] args) {
         // criando boletos
         Boleto boleto1 = new Boleto(100);
         Boleto boleto2 = new Boleto(200);
@@ -24,5 +24,5 @@ public class MainClassEncapsulamento {
         // iniciando processador
         ProcessadorDeBoletos processadorDeBoletos = new ProcessadorDeBoletos();
         processadorDeBoletos.processa(boletos, fatura);
-    }
+    }*/
 }
